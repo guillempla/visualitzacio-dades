@@ -22,3 +22,9 @@ plt.title('Hierarchical Clustering Dendrogram for Teams with International Prest
 plt.xlabel('Team Name')
 plt.ylabel('Distance')
 plt.show()
+
+# File path for saving the image
+png_file_path = 'chart/teams_dendrogram.png'
+
+# Saving the plot as a PNG file
+plt.savefig(png_file_path)
