@@ -5,7 +5,7 @@ title: Visualitzacions PAC2
 
 En aquesta pàgina s'hi mostren les visualitzacion Cartograma, Dendograma Lineal i Bee Swarm Chart.
 
-## Cartograms
+## Cartograma
 
 <div class="flourish-embed flourish-map" data-src="visualisation/15672869"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
